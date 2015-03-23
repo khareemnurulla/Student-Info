@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\bin\Debug\dbTutorial.mdb
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\bin\Debug\Tutorial.xml
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.vbproj.ResolveComReference.cache
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.Resources.resources
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.xml
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\User\Desktop\Tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.frmMain.resources
